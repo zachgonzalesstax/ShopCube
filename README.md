@@ -1,4 +1,4 @@
-# ShopCube
+# Github Advanced Security evaluation app. 
 
 ![alt text](https://github.com/shopyo/ShopCube/blob/dev/logo.png?raw=true)
 
